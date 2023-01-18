@@ -1,7 +1,7 @@
 # 🦸‍♂️🦸‍♀️ Awesome English
 
 ## 🔸 Educational Apps 
-These apps are useful for developing your new habit (learning English)
+These apps are useful for developing your new habit 
 
 - [Ewa](https://appewa.com/) - my favorite app for edutainment. I love everything about it!
   
