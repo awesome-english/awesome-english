@@ -75,6 +75,8 @@ In comparison to **edX**, **Udemy** usually offers higher value for money and be
   
 - [Thesaurus](https://thesaurus.plus) is an online platform with a simple interface providing lists of definitions, similar or opposite words, and terms. 
 
+- [WooordHunt](https://wooordhunt.ru/) is an Englis-Russian and Russian-English dictionary providing numerous , my favorite one, it also has some additional features such as exercises for learning words and an editor.
+
 - [InternetSlang](http://internetslang.com) - here you'll find a list of slang terms, acronyms, and abbreviations as used in websites, on Twitter, ICQ chat rooms, blogs, SMS, and Internet forums - a complete dictionary of slang.
 
 - [Koala Net](http://www.koalanet.com.au/australian-slang.html) - unique Australian slang. 
@@ -112,15 +114,6 @@ In comparison to **edX**, **Udemy** usually offers higher value for money and be
 - [Billie English](https://www.youtube.com/@BillieEnglish) - YouTube channel of the queen of pronunciation.
 
 
-## 🔸 Authentic videos
-
-Here you can see how English is spoken by real people and in context. I like both sources to check the context of use of a word or phrase in different authentic videos, movies, and series.
-
-- [Youglish](https://youglish.com) - an online app that provides real-time captions of videos shared on YouTube.
-  
-- [Playphrase](https://www.playphrase.me/#/search) - a free-to-use Web app that lets you search for specific phrases, quotes, or dialogues extracted from movies.
-
-
 ## 🔸 Speaking
 
 - [Replica](https://my.replika.com/) - an AI friend. It was founded with the idea to create a personal AI that would help you express and witness yourself by offering a helpful conversation. You can create the AI person, choose the appearance, clothes, character like in the Sims and chat with him\her. This AI is rather smart, so it's really worth trying :)
@@ -128,7 +121,20 @@ Here you can see how English is spoken by real people and in context. I like bot
 - [Random Word Generator](https://randomwordgenerator.com/) and there are also sections with random pictures, quotes, questions, facts, tongue twisters, and much more. You can use this resource for any kind of practice: making sentences and practicing grammar, describing pictures, answering random questions, discussing facts, or practicing pronunciation. 
 
 - [Taboo game](https://playtaboo.com/playpage/#score_sheet_anchor) - a verbal game, where players get teammates to say the guess word without saying the forbidden words on the cards.
+
+
+## 🔸 Listening
+
+- [Lyricstraining](https://lyricstraining.com) - the way to learn languages through music and the lyrics of your favourite songs. You need to fill the gaps while listening the song.
+
+- [English Central](https://www.englishcentral.com) - here you can practise listening, speaking and spelling by watching videos and filling the gaps.
   
+Here you can see how English is spoken by real people and in context. I like both sources to check the context of use of a word or phrase in different authentic videos, movies, and series.
+
+- [Youglish](https://youglish.com) - an online app that provides real-time captions of videos shared on YouTube.
+  
+- [Playphrase](https://www.playphrase.me/#/search) - a free-to-use Web app that lets you search for specific phrases, quotes, or dialogues extracted from movies.
+
   
 ## 🔸 Social networks and Communities
 
