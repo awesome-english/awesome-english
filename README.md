@@ -184,5 +184,6 @@ Here you can see how English is spoken by real people and in context. I like bot
 
 Here are numerous articles to boost you grammar and speaking skills
 
-[Speaking Tongue](https://speakingtongue.com/category/english/) 
-[FluentU](https://www.fluentu.com/blog/english/) 
+- [Speaking Tongue](https://speakingtongue.com/category/english/) 
+
+- [FluentU](https://www.fluentu.com/blog/english/) 
