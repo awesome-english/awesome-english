@@ -81,9 +81,17 @@ In comparison to **edX**, **Udemy** usually offers higher value for money and be
 
 - [Koala Net](http://www.koalanet.com.au/australian-slang.html) - unique Australian slang. 
 
-## 🔸 Writing
+## 🔸 Speaking and Writing
 
-**Random writing**
+- [Say Another Way](https://circlegames.io/meanwords/) - a word guessing game that is played in teams also known as Alias or Taboo. Amazing interface, cute random names, different categories of words for all levels. I love it!
+
+- [Taboo game](https://playtaboo.com/playpage/#score_sheet_anchor) - a verbal game, where players get teammates to say the guess word without saying the forbidden words on the cards.
+
+- [Replica](https://my.replika.com/) - an AI friend. It was founded with the idea to create a personal AI that would help you express and witness yourself by offering a helpful conversation. You can create the AI person, choose the appearance, clothes, character like in the Sims and chat with him\her. This AI is rather smart, so it's really worth trying :)
+
+**Random generators**
+
+- [Random Word Generator](https://randomwordgenerator.com/) and there are also sections with random pictures, quotes, questions, facts, tongue twisters, and much more. You can use this resource for any kind of practice: making sentences and practicing grammar, describing pictures, answering random questions, discussing facts, or practicing pronunciation. 
 
 - [Random Tales](https://medium.com/random-tales/tagged/short-story) - you and your random co-writer can collaborate on a story together. Each writes on alternate days, taking the story in a new direction. 
 
@@ -112,15 +120,6 @@ In comparison to **edX**, **Udemy** usually offers higher value for money and be
 - [Elsa](https://elsaspeak.com/en/) - English language speech assistant, it has a web version and an app.
 
 - [Billie English](https://www.youtube.com/@BillieEnglish) - YouTube channel of the queen of pronunciation.
-
-
-## 🔸 Speaking
-
-- [Replica](https://my.replika.com/) - an AI friend. It was founded with the idea to create a personal AI that would help you express and witness yourself by offering a helpful conversation. You can create the AI person, choose the appearance, clothes, character like in the Sims and chat with him\her. This AI is rather smart, so it's really worth trying :)
-
-- [Random Word Generator](https://randomwordgenerator.com/) and there are also sections with random pictures, quotes, questions, facts, tongue twisters, and much more. You can use this resource for any kind of practice: making sentences and practicing grammar, describing pictures, answering random questions, discussing facts, or practicing pronunciation. 
-
-- [Taboo game](https://playtaboo.com/playpage/#score_sheet_anchor) - a verbal game, where players get teammates to say the guess word without saying the forbidden words on the cards.
 
 
 ## 🔸 Listening
