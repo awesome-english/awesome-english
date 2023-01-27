@@ -178,3 +178,11 @@ Here you can see how English is spoken by real people and in context. I like bot
 - [To Fluency](https://www.youtube.com/@tofluency) - kinda podcast on YouTube about English features and tips.
   
 - [Lexicon Valley](https://slate.com/podcasts/lexicon-valley) - the podcast about language hosted by linguist and professor of Columbia University.
+
+
+## 🔸 Articles
+
+Here are numerous articles to boost you grammar and speaking skills
+
+[Speaking Tongue](https://speakingtongue.com/category/english/) 
+[FluentU](https://www.fluentu.com/blog/english/) 
