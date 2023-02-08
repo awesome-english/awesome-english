@@ -1,5 +1,7 @@
 # 🦸‍♂️🦸‍♀️ Awesome English
 
+![Awesome English logo](https://github.com/awesome-english/awesome-english/blob/main/logo.png)
+
 ## 🔸 Speaking and Writing
 
 - [Replica](https://my.replika.com/) - an AI friend you would love! It was founded with the idea to create a personal AI that would help you express and witness yourself by offering a helpful conversation. You can create the AI person, choose the appearance, clothes, character like in the Sims and chat with him\her. The AI is really smart, so it's absolutely worth trying :) 
