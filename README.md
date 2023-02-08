@@ -46,7 +46,7 @@ Here you can see how English is spoken by real people and in context. I like bot
 
 - [Word of the day](https://www.dictionary.com/) - one more resource with Word of the day feature on Dictionary.com
 
-- [Play Scrabble](https://playscrabble.com/0 - play Scrabble on-line
+- [Play Scrabble](https://playscrabble.com/) - play Scrabble on-line
 
 - [Word Games](https://games.usatoday.com/category/word) - different word games on-line
 
