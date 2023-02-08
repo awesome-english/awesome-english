@@ -12,7 +12,7 @@
 
 **Random generators**
 
-- [Random Word Generator](https://randomwordgenerator.com/) and there are also sections with random pictures, quotes, questions, facts, tongue twisters, and much more. You can use this resource for any kind of practice: making sentences and practicing grammar, describing pictures, answering random questions, discussing facts, or practicing pronunciation. 
+- [Random Word Generator](https://randomwordgenerator.com/) is a generator of random words, pictures, quotes, questions, facts, tongue twisters, and much more. You can use this resource for any kind of practice: making sentences and practicing grammar, describing pictures, answering random questions, discussing facts, or practicing pronunciation. 
 
 - [Random Tales](https://medium.com/random-tales/tagged/short-story) - you and your random co-writer can collaborate on a story together. Each writes on alternate days, taking the story in a new direction. 
 
