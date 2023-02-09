@@ -10,7 +10,7 @@
 
 - [Taboo game](https://playtaboo.com/playpage/#score_sheet_anchor) - a verbal game, where players get teammates to say the guess word without saying the forbidden words on the cards.
 
-**Random generators**
+  **Random generators**
 
 - [Random Word Generator](https://randomwordgenerator.com/) is a generator of random words, pictures, quotes, questions, facts, tongue twisters, and much more. You can use this resource for any kind of practice: making sentences and practicing grammar, describing pictures, answering random questions, discussing facts, or practicing pronunciation. 
 
@@ -20,7 +20,7 @@
 
 - [Plot Generator](https://www.plot-generator.org.uk/story/) - it can help you generate a short story. All you need to do is create your characters, write a few words that you want to use, choose your style, an opening, and some ending and it will write a story for you. It`s fun))
 
-**Tools for writing**
+  **Tools for writing**
 
 - [Wordtune](https://www.wordtune.com/?utm_source=quora&utm_medium=organic&utm_campaign=Write_Quora-Qanswers_&utm_term=Is_there_a_better_software_than_Grammarly_v1) - an AI writing assistant that can help you rewrite your texts, check grammatical errors and enhance your vocabulary.
 
@@ -28,11 +28,13 @@
 
 ## 🔸 Listening and Reading
 
-- [Lyricstraining](https://lyricstraining.com) - the way to learn languages through music and the lyrics of your favourite songs. You need to fill the gaps while listening the song.
+- [Lyricstraining](https://lyricstraining.com) - the way of learning languages through music and the lyrics of your favourite songs. You need to fill the gaps while listening the song.
 
 - [English Central](https://www.englishcentral.com) - practise listening, speaking and spelling by watching videos and filling the gaps.
+
+- [NYT reading](https://www.nytimes.com/spotlight/vocabulary-quizzes) - test your vocabulary and reading comprehension with quizes based on the The New York Times articles.
   
-Here you can see how English is spoken by real people and in context. I like both sources to check the context of use of a word or phrase in different authentic videos, movies, and series.
+  Here you can see how English is spoken by real people and in context. I like both sources to check the context of use of a word or phrase in different authentic videos, movies, and series.
 
 - [Youglish](https://youglish.com) - an online app that provides real-time captions of videos shared on YouTube.
   
@@ -40,15 +42,13 @@ Here you can see how English is spoken by real people and in context. I like bot
 
 ## 🔸 Vocabulary
 
-- [NYT reading](https://www.nytimes.com/spotlight/vocabulary-quizzes) - test your vocabulary and reading comprehension with quizes based on the The New York Times articles.
+- [Play Scrabble](https://playscrabble.com/) - play Scrabble on-line
 
 - [Word OF The Day Times](https://www.nytimes.com/column/learning-word-of-the-day) - Words of the Day on The New York Times
 
 - [NYTimes](https://www.nytimes.com/crosswords) - word games on The New York Times
 
 - [Word of the day](https://www.dictionary.com/) - one more resource with Word of the day feature on Dictionary.com
-
-- [Play Scrabble](https://playscrabble.com/) - play Scrabble on-line
 
 - [Word Games](https://games.usatoday.com/category/word) - different word games on-line
 
@@ -98,7 +98,7 @@ Here you can see how English is spoken by real people and in context. I like bot
 - [Lexicon Valley](https://slate.com/podcasts/lexicon-valley) - the podcast about language hosted by linguist and professor of Columbia University.
 
 
-## 🔸 Social networks and Communities
+## 🔸 Social and Communities
 
 - [Tandem](https://www.tandem.net) - a language learning app where people teach each other.
   
@@ -117,7 +117,7 @@ Here you can see how English is spoken by real people and in context. I like bot
 - [Twitter](https://twitter.com/) - a microblogging, where people communicate in short messages called tweets. *“Facebook makes me dislike people I’ve known for years, while Twitter makes me like people I’ve never met.”
 
 ## 🔸 Educational Apps 
-These apps are useful for developing your new habit 
+  These apps are useful for developing your new habit 
 
 - [Ewa](https://appewa.com/) - my favorite app for edutainment. I love everything about it!
   
@@ -141,19 +141,19 @@ These apps are useful for developing your new habit
 
 ## 🔸  Courses 
 
-**Short and long-term courses, micro-credentials and online-degrees**
+  **Short and long-term courses, micro-credentials and online-degrees**
 
 - [Future Learn](https://www.futurelearn.com/) - online courses and degrees from leading universities or organizations, this platform is similar to the well-known Coursera.
 
 - [Coursera](https://www.coursera.org/) is a global online learning platform that offers access to online courses and degrees from world-class universities and companies.
   
-**Coursera** focuses more on professional training, for example, computer science and business degrees, and **EdX** offers numerous courses in the humanities and the natural sciences.
+  **Coursera** focuses more on professional training, for example, computer science and business degrees, and **EdX** offers numerous courses in the humanities and the natural sciences.
 
 - [EdX](https://www.edx.org/) - one more platform similar to Coursera. Both of them offer a diverse range of subjects.
 
 - [Udemy](https://www.udemy.com/) - an online learning and teaching marketplace with over 213000 courses and 57 million students. Learn programming, marketing, data science, and more.
 
-In comparison to **edX**, **Udemy** usually offers higher value for money and better content quality.
+  In comparison to **edX**, **Udemy** usually offers higher value for money and better content quality.
 
 - [LinkedIn Learning](https://www.linkedin.com/learning/) is an online educational platform that helps you develop your skills through expert-led course videos. Most courses are rather simple and short, it's not like all courses above but kinda guides. You can choose to add these courses and related skills to your LinkedIn profile once you've completed them.
 
@@ -200,7 +200,7 @@ In comparison to **edX**, **Udemy** usually offers higher value for money and be
 
 ## 🔸 Articles
 
-Here are numerous articles to boost you grammar and speaking skills
+  Here are numerous articles to boost you grammar and speaking skills
 
 - [Speaking Tongue](https://speakingtongue.com/category/english/) 
 
