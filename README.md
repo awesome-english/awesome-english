@@ -16,7 +16,7 @@
 
 - [Random Tales](https://medium.com/random-tales/tagged/short-story) - you and your random co-writer can collaborate on a story together. Each writes on alternate days, taking the story in a new direction. 
 
-- [Squibler](https://www.squibler.io/random-prompt-generator) - I find this tool useful for speaking and writing. You can generate random prompts to inspire or use them in your works.
+- [Squibler](https://www.squibler.io/random-prompt-generator) is good for speaking and writing. You can generate random prompts to inspire or use them in your works.
 
 - [Plot Generator](https://www.plot-generator.org.uk/story/) - it can help you generate a short story. All you need to do is create your characters, write a few words that you want to use, choose your style, an opening, and some ending and it will write a story for you. It`s fun))
 
