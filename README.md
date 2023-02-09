@@ -83,7 +83,7 @@ Here you can see how English is spoken by real people and in context. I like bot
   
 - [LinguaMarina](https://www.youtube.com/c/linguamarina/videos) - a Russian girl from Saint-P currently living in the USA shares some tips and tricks of English language.
 
-- [English for Everyone with Kevin and Liza](https://www.youtube.com/@mrmememe777) - Kevin and Liza make short videos explaining features of English vocabulary and grammar.
+- [English for Everyone with Kevin and Liza](https://www.youtube.com/@mrmememe777) - Kevin and Liza make short videos explaining features of English vocabulary, pronunciation and grammar. The thing I **don't** like is that they discuss some other bloggers' mistakes. 
   
 - [English Speaking Success](https://www.youtube.com/@EnglishSpeakingSuccess) - tips and tricks on how to learn languages efficiently and get a high score in IELTS 
   
