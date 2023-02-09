@@ -70,6 +70,24 @@
 
 - [Wordwall](https://wordwall.net) - a huge library with different games for grammar and vocabulary practice.
 
+## 🔸 Socials and Communities
+
+- [Tandem](https://www.tandem.net) - a language learning app where people teach each other.
+  
+- [Italki](https://www.italki.com/en) is an online language learning platform that connects language learners and teachers through video chat. The site allows students and online teachers to find each other.
+  
+- [Hinative](https://hinative.com/questions/) -  an advantage of this resource is that you can learn from native speakers,  choose the right words for your specific situation, find authentic expressions, differences in usage, etc. You can ask any question or find an already answered one.
+
+- [Reddit](https://www.reddit.com/?feed=home) is a social sharing website, you can ask a question or share your experience there and users upvote and downvote the posts.
+  
+- [Languagelearning](https://www.reddit.com/r/languagelearning) - the community on Reddit.
+
+- [Tumblr](https://www.tumblr.com/) - a microblogging platform for sharing all kinds of multimedia. The profiles are highly customizable, all posts are public. Some of Tumblr’s top competitors are Twitter, Pinterest, and Instagram.
+
+- [Langblr](https://www.tumblr.com/tagged/langblr?sort=top) - the community on Tumblr.
+
+- [Twitter](https://twitter.com/) - a microblogging, where people communicate in short messages called tweets. *“Facebook makes me dislike people I’ve known for years, while Twitter makes me like people I’ve never met.”
+
 
 ## 🔸 Channels and podcasts
 
@@ -97,24 +115,6 @@
   
 - [Lexicon Valley](https://slate.com/podcasts/lexicon-valley) - the podcast about language hosted by linguist and professor of Columbia University.
 
-
-## 🔸 Social and Communities
-
-- [Tandem](https://www.tandem.net) - a language learning app where people teach each other.
-  
-- [Italki](https://www.italki.com/en) is an online language learning platform that connects language learners and teachers through video chat. The site allows students and online teachers to find each other.
-  
-- [Hinative](https://hinative.com/questions/) -  an advantage of this resource is that you can learn from native speakers,  choose the right words for your specific situation, find authentic expressions, differences in usage, etc. You can ask any question or find an already answered one.
-
-- [Reddit](https://www.reddit.com/?feed=home) is a social sharing website, you can ask a question or share your experience there and users upvote and downvote the posts.
-  
-- [Languagelearning](https://www.reddit.com/r/languagelearning) - the community on Reddit.
-
-- [Tumblr](https://www.tumblr.com/) - a microblogging platform for sharing all kinds of multimedia. The profiles are highly customizable, all posts are public. Some of Tumblr’s top competitors are Twitter, Pinterest, and Instagram.
-
-- [Langblr](https://www.tumblr.com/tagged/langblr?sort=top) - the community on Tumblr.
-
-- [Twitter](https://twitter.com/) - a microblogging, where people communicate in short messages called tweets. *“Facebook makes me dislike people I’ve known for years, while Twitter makes me like people I’ve never met.”
 
 ## 🔸 Educational Apps 
   These apps are useful for developing your new habit 
