@@ -123,7 +123,7 @@
   
 - [Lingvaleo](https://lingualeo.com/en) - a linguistic super app with lots of tools and learning techniques.
 
-- [Duolingvo](https://www.duolingo.com/) - maniac owl pushing you to study)))
+- [Duolingvo](https://www.duolingo.com/) - maniac owl pushing you to study :D
 
 - [Drops](https://languagedrops.com/) - this app can be a useful addition to your language learning toolbox, especially for absolute beginners who need to learn basic vocabulary.
 
