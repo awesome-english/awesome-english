@@ -200,10 +200,9 @@
 
 ## 🔸 Articles
 
-  Here are numerous articles to boost you grammar and speaking skills
+ Numerous articles to boost you grammar and speaking skills
 
 - [Speaking Tongue](https://speakingtongue.com/category/english/) 
 
 - [FluentU](https://www.fluentu.com/blog/english/) 
 
-- [Speaking Tongue](https://speakingtongue.com/category/english/)
