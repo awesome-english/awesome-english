@@ -40,6 +40,8 @@
   
 - [Playphrase](https://www.playphrase.me/#/search) - a free-to-use Web app that lets you search for specific phrases, quotes, or dialogues extracted from movies.
 
+- [Numblr](https://numblr.io) - free app dedicated to English number listening — practice hearing dates, times, phone numbers, and money amounts in real-world contexts and type what you hear.
+
 ## 🔸 Vocabulary
 
 - [Play Scrabble](https://playscrabble.com/) - play Scrabble on-line
