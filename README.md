@@ -6,6 +6,8 @@
 
 - [Replica](https://my.replika.com/) - an AI friend you would love! It was founded with the idea to create a personal AI that would help you express and witness yourself by offering a helpful conversation. You can create the AI person, choose the appearance, clothes, character like in the Sims and chat with him\her. The AI is really smart, so it's absolutely worth trying :) 
 
+- [Elispeak](https://app.elispeak.com/?freemium=true) - an AI speaking coach you can actually talk to out loud. Pick a topic (everyday life, work, travel, or IELTS/TOEFL-style prompts) and practice real-time spoken English conversation with natural back-and-forth and corrections. 15 minutes of free speaking practice every day in the browser, no install needed.
+
 - [Say Another Way](https://circlegames.io/meanwords/) - a word guessing game that is played in teams also known as Alias or Taboo. Amazing interface, cute random names, different categories of words for all levels. I love it!
 
 - [Taboo game](https://playtaboo.com/playpage/#score_sheet_anchor) - a verbal game, where players get teammates to say the guess word without saying the forbidden words on the cards.
