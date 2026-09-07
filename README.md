@@ -22,6 +22,8 @@
 
   **Tools for writing**
 
+- [IELTS Writing Practice](https://ieltswritingpractice.app/) - Free IELTS question bank and timed writing practice for Academic Task 1, General Training Task 1, and Task 2; AI scores and detailed feedback require a paid plan.
+
 - [Wordtune](https://www.wordtune.com/?utm_source=quora&utm_medium=organic&utm_campaign=Write_Quora-Qanswers_&utm_term=Is_there_a_better_software_than_Grammarly_v1) - an AI writing assistant that can help you rewrite your texts, check grammatical errors and enhance your vocabulary.
 
 - [Ginger](https://www.gingersoftware.com/grammarcheck), [Linguix](https://linguix.com/) , [Grammarly](https://www.grammarly.com/) - same as Wordtune, correct mistakes and help to paraphrase texts.
