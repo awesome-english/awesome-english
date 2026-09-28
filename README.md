@@ -39,6 +39,7 @@
 - [Youglish](https://youglish.com) - an online app that provides real-time captions of videos shared on YouTube.
   
 - [Playphrase](https://www.playphrase.me/#/search) - a free-to-use Web app that lets you search for specific phrases, quotes, or dialogues extracted from movies.
+- [WinkLingo](https://winklingo.com/en) - learn real English from a huge library of movie clips: search any phrase to hear it in real scenes, get AI breakdowns of chunks, slang, grammar and pronunciation, tap any word for an instant dictionary lookup, and practise with guided chapters, shadowing, slow playback and line looping.
 
 ## 🔸 Vocabulary
 
