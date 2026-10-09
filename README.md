@@ -52,6 +52,8 @@
 
 - [Word Games](https://games.usatoday.com/category/word) - different word games on-line
 
+- [WordHub](https://wordhub.top) - Vocabulary learning platform with etymology-based explanations, spaced repetition, and apps for web, browser, iOS and macOS.
+
 ## 🔸 Pronunciation
 
 - [The Sound of English](https://pronunciationstudio.com/tsoe-epub-downloads/) - an awesome pronunciation guide, it's really the best practice book I`ve ever seen!
