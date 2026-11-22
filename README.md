@@ -137,6 +137,7 @@
 - [Ororo TV](https://ororo.tv/en)- watch movies with subtitles, and save new words right into your list.
   
 - [Puzzle English](https://puzzle-english.com/) is a tool to learn English without tutors for those who have basic knowledge of the language.
+- [ToeflHub](https://toeflhub.com/tools/mock-exam) - AI mock tests for the 2026 TOEFL iBT with AI scoring for Writing and Speaking.
 
 ## 🔸  Courses 
 
